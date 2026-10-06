@@ -1,0 +1,14 @@
+email
+plainaddress
+@missinglocal.com
+missingatsign.com
+missing_domain@
+missing_domain@.com
+two@@example.com
+email@-example.com
+email@example..com
+.email@example.com
+email.@example.com
+email@111.222.333.44444
+Abc..123@example.com
+email@ example.com
